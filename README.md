@@ -1,7 +1,7 @@
 # AFENet
 
-这是一个用于从航拍图像中分割电力线和输电塔的语义分割网络。
+This is a semantic segmentation network designed for segmenting power lines and transmission towers from aerial images.
+![AFENet](AFENet.png)
+The network can be trained on the PLD-UAV and TTPLA datasets.
 
-我们在PLD-UAV数据集和TTPLA数据集上进行了实验。
-
-我们提供了训练好的模型。
+We also provide pre-trained models.
