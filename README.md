@@ -16,6 +16,5 @@ This work utilizes the following datasets for training and evaluation:
 
 We provide a pretrained model:
 **Download Link**:  
-Baidu Netdisk: iter_20000.pth  
 Link: https://pan.baidu.com/s/1-gTRECoMET65Lq1gGTybcQ  
 Extraction code: 6666
