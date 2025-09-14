@@ -15,7 +15,7 @@ This work utilizes the following datasets for training and evaluation:
 *   [PLD-UAV Dataset](https://github.com/SnorkerHeng/PLD-UAV)
 *   [TTPLA Dataset](https://github.com/R3ab/ttpla_dataset.git)
 
-## Pretrained Models
+## Pretrained Model
 
 **Download Link**: https://pan.baidu.com/s/1-gTRECoMET65Lq1gGTybcQ  
 Extraction code: 6666
