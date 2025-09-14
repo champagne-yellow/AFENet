@@ -14,7 +14,5 @@ This work utilizes the following datasets for training and evaluation:
 
 ## Pretrained Models
 
-We provide a pretrained model:
-**Download Link**:  
-Link: https://pan.baidu.com/s/1-gTRECoMET65Lq1gGTybcQ  
+**Download Link**: https://pan.baidu.com/s/1-gTRECoMET65Lq1gGTybcQ  
 Extraction code: 6666
