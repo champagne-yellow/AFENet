@@ -4,7 +4,7 @@
 A PyTorch implementation of AFENet, a semantic segmentation network for segmenting power lines and transmission towers from aerial images.
 
 ![AFENet](AFENet.png)  
-*Figure: AFENet Architecture Overview*
+*AFENet Architecture Overview*
 
 ## Installation
 
